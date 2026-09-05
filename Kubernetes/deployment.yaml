@@ -29,7 +29,7 @@ spec:
 
       containers:
         - name: netflix
-          image: chetan8889/netflix:build-11
+          image: chetan8889/netflix:build-12
           imagePullPolicy: Always
 
           ports:
